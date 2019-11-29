@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Shayan | SHAMSA ABID</title>
+    <link>https://shamsa-abid.github.io/authors/muhammad-shayan/</link>
+      <atom:link href="https://shamsa-abid.github.io/authors/muhammad-shayan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Muhammad Shayan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
+      <title>Muhammad Shayan</title>
+      <link>https://shamsa-abid.github.io/authors/muhammad-shayan/</link>
+    </image>
+    
+    <item>
+      <title>Retrieving Design Pattern Usage Examples using Domain Matching</title>
+      <link>https://shamsa-abid.github.io/publication/pub_dpers/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_dpers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
