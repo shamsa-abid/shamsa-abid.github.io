@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | SHAMSA ABID</title>
-    <link>https://shamsa-abid.github.io/publication/</link>
-      <atom:link href="https://shamsa-abid.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shamsa-abid.github.io/index.html/publication/</link>
+      <atom:link href="https://shamsa-abid.github.io/index.html/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
+      <url>https://shamsa-abid.github.io/index.html/img/icon-192.png</url>
       <title>Publications</title>
-      <link>https://shamsa-abid.github.io/publication/</link>
+      <link>https://shamsa-abid.github.io/index.html/publication/</link>
     </image>
     
     <item>
       <title>Recommending Related Functions from API Usage-Based Function Clone Structures</title>
-      <link>https://shamsa-abid.github.io/publication/pub_facer/</link>
+      <link>https://shamsa-abid.github.io/index.html/publication/pub_facer/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/publication/pub_facer/</guid>
+      <guid>https://shamsa-abid.github.io/index.html/publication/pub_facer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retrieving Design Pattern Usage Examples using Domain Matching</title>
-      <link>https://shamsa-abid.github.io/publication/pub_dpers/</link>
+      <link>https://shamsa-abid.github.io/index.html/publication/pub_dpers/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/publication/pub_dpers/</guid>
+      <guid>https://shamsa-abid.github.io/index.html/publication/pub_dpers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CodeEase: Harnessing Method Clone Structures for Reuse</title>
-      <link>https://shamsa-abid.github.io/publication/pub_codeease/</link>
+      <link>https://shamsa-abid.github.io/index.html/publication/pub_codeease/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/publication/pub_codeease/</guid>
+      <guid>https://shamsa-abid.github.io/index.html/publication/pub_codeease/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards a Structural Clone Based Recommender System</title>
-      <link>https://shamsa-abid.github.io/publication/pub_towardsrecsys/</link>
+      <link>https://shamsa-abid.github.io/index.html/publication/pub_towardsrecsys/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/publication/pub_towardsrecsys/</guid>
+      <guid>https://shamsa-abid.github.io/index.html/publication/pub_towardsrecsys/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflections on Teaching Refactoring: A Tale of Two Projects</title>
-      <link>https://shamsa-abid.github.io/publication/pub_reflectionsonrefactoring/</link>
+      <link>https://shamsa-abid.github.io/index.html/publication/pub_reflectionsonrefactoring/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/publication/pub_reflectionsonrefactoring/</guid>
+      <guid>https://shamsa-abid.github.io/index.html/publication/pub_reflectionsonrefactoring/</guid>
       <description></description>
     </item>
     
