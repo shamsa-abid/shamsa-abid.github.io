@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | SHAMSA ABID</title>
-    <link>https://shamsa-abid.github.io/index.html/publication_types/</link>
-      <atom:link href="https://shamsa-abid.github.io/index.html/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://shamsa-abid.github.io/publication_types/</link>
+      <atom:link href="https://shamsa-abid.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shamsa-abid.github.io/index.html/img/icon-192.png</url>
+      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>https://shamsa-abid.github.io/index.html/publication_types/</link>
+      <link>https://shamsa-abid.github.io/publication_types/</link>
     </image>
     
     <item>
       <title>1</title>
-      <link>https://shamsa-abid.github.io/index.html/publication_types/1/</link>
+      <link>https://shamsa-abid.github.io/publication_types/1/</link>
       <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/index.html/publication_types/1/</guid>
+      <guid>https://shamsa-abid.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     
