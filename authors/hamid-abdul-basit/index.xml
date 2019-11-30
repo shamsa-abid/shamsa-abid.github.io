@@ -5,7 +5,7 @@
     <link>https://shamsa-abid.github.io/authors/hamid-abdul-basit/</link>
       <atom:link href="https://shamsa-abid.github.io/authors/hamid-abdul-basit/index.xml" rel="self" type="application/rss+xml" />
     <description>Hamid Abdul Basit</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>Hamid Abdul Basit</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Retrieving Design Pattern Usage Examples using Domain Matching</title>
-      <link>https://shamsa-abid.github.io/publication/pub_dpers/</link>
-      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/publication/pub_dpers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CodeEase: Harnessing Method Clone Structures for Reuse</title>
       <link>https://shamsa-abid.github.io/publication/pub_codeease/</link>
       <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://shamsa-abid.github.io/publication/pub_codeease/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retrieving Design Pattern Usage Examples using Domain Matching</title>
+      <link>https://shamsa-abid.github.io/publication/pub_dpers/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_dpers/</guid>
       <description></description>
     </item>
     
