@@ -5,7 +5,7 @@
     <link>https://shamsa-abid.github.io/authors/</link>
       <atom:link href="https://shamsa-abid.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Shamsa Abid</title>
-      <link>https://shamsa-abid.github.io/authors/shamsa-abid/</link>
-      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/authors/shamsa-abid/</guid>
+      <title>Hamid Abdul Basit</title>
+      <link>https://shamsa-abid.github.io/authors/hamid-abdul-basit/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/authors/hamid-abdul-basit/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hamid Abdul Basit</title>
-      <link>https://shamsa-abid.github.io/authors/hamid-abdul-basit/</link>
-      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://shamsa-abid.github.io/authors/hamid-abdul-basit/</guid>
+      <title>Sarah Nadi</title>
+      <link>https://shamsa-abid.github.io/authors/sarah-nadi/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/authors/sarah-nadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shafay Shamail</title>
+      <link>https://shamsa-abid.github.io/authors/shafay-shamail/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/authors/shafay-shamail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shamsa Abid</title>
+      <link>https://shamsa-abid.github.io/authors/shamsa-abid/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/authors/shamsa-abid/</guid>
       <description></description>
     </item>
     

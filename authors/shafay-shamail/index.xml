@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shafay Shamail | SHAMSA ABID</title>
+    <link>https://shamsa-abid.github.io/authors/shafay-shamail/</link>
+      <atom:link href="https://shamsa-abid.github.io/authors/shafay-shamail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shafay Shamail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
+      <title>Shafay Shamail</title>
+      <link>https://shamsa-abid.github.io/authors/shafay-shamail/</link>
+    </image>
+    
+    <item>
+      <title>Recommending Related Functions from API Usage-Based Function Clone Structures</title>
+      <link>https://shamsa-abid.github.io/publication/pub_facer_emse/</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_facer_emse/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
