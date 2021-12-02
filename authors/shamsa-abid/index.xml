@@ -5,12 +5,20 @@
     <link>https://shamsa-abid.github.io/authors/shamsa-abid/</link>
       <atom:link href="https://shamsa-abid.github.io/authors/shamsa-abid/index.xml" rel="self" type="application/rss+xml" />
     <description>Shamsa Abid</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 17 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:11:28 +0500</lastBuildDate>
     <image>
       <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>Shamsa Abid</title>
       <link>https://shamsa-abid.github.io/authors/shamsa-abid/</link>
     </image>
+    
+    <item>
+      <title>PhD Thesis</title>
+      <link>https://shamsa-abid.github.io/project/phdthesis/</link>
+      <pubDate>Fri, 03 Dec 2021 00:11:28 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/project/phdthesis/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FACER: An API Usage-based Code-example Recommender for Opportunistic Reuse</title>
