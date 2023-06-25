@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saad Arshad; Shamsa Abid; Shafay Shamail | SHAMSA ABID</title>
+    <link>https://shamsa-abid.github.io/authors/saad-arshad-shamsa-abid-shafay-shamail/</link>
+      <atom:link href="https://shamsa-abid.github.io/authors/saad-arshad-shamsa-abid-shafay-shamail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saad Arshad; Shamsa Abid; Shafay Shamail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 01:23:01 +0500</lastBuildDate>
+    <image>
+      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
+      <title>Saad Arshad; Shamsa Abid; Shafay Shamail</title>
+      <link>https://shamsa-abid.github.io/authors/saad-arshad-shamsa-abid-shafay-shamail/</link>
+    </image>
+    
+    <item>
+      <title>CodeBERT for Code Clone Detection: A Replication Study</title>
+      <link>https://shamsa-abid.github.io/publication/pub_codebertrepl/</link>
+      <pubDate>Wed, 14 Dec 2022 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_codebertrepl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

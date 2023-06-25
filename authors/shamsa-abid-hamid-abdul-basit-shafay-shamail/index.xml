@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shamsa Abid; Hamid Abdul Basit; Shafay Shamail | SHAMSA ABID</title>
+    <link>https://shamsa-abid.github.io/authors/shamsa-abid-hamid-abdul-basit-shafay-shamail/</link>
+      <atom:link href="https://shamsa-abid.github.io/authors/shamsa-abid-hamid-abdul-basit-shafay-shamail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shamsa Abid; Hamid Abdul Basit; Shafay Shamail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Nov 2022 01:23:01 +0500</lastBuildDate>
+    <image>
+      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
+      <title>Shamsa Abid; Hamid Abdul Basit; Shafay Shamail</title>
+      <link>https://shamsa-abid.github.io/authors/shamsa-abid-hamid-abdul-basit-shafay-shamail/</link>
+    </image>
+    
+    <item>
+      <title>Context-aware code recommendation in Intellij IDEA</title>
+      <link>https://shamsa-abid.github.io/publication/pub_contextfacer/</link>
+      <pubDate>Mon, 07 Nov 2022 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_contextfacer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,36 @@
     <link>https://shamsa-abid.github.io/publication_types/1/</link>
       <atom:link href="https://shamsa-abid.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 01:23:01 +0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 01:23:01 +0500</lastBuildDate>
     <image>
       <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>1</title>
       <link>https://shamsa-abid.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>CodeBERT for Code Clone Detection: A Replication Study</title>
+      <link>https://shamsa-abid.github.io/publication/pub_codebertrepl/</link>
+      <pubDate>Wed, 14 Dec 2022 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_codebertrepl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-aware code recommendation in Intellij IDEA</title>
+      <link>https://shamsa-abid.github.io/publication/pub_contextfacer/</link>
+      <pubDate>Mon, 07 Nov 2022 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_contextfacer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Comparative Analysis of Clone Detection Techniques on SemanticCloneBench</title>
+      <link>https://shamsa-abid.github.io/publication/pub_codebert4semclone/</link>
+      <pubDate>Sun, 02 Oct 2022 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_codebert4semclone/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FACER-AS: An API Usage-based Code Recommendation Tool for Android Studio</title>
