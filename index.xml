@@ -5,12 +5,20 @@
     <link>https://shamsa-abid.github.io/</link>
       <atom:link href="https://shamsa-abid.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SHAMSA ABID</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Dec 2022 01:23:01 +0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 01:23:01 +0500</lastBuildDate>
     <image>
       <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>SHAMSA ABID</title>
       <link>https://shamsa-abid.github.io/</link>
     </image>
+    
+    <item>
+      <title>Interpreting CodeBERT for Semantic Code Clone Detection</title>
+      <link>https://shamsa-abid.github.io/publication/pub_codebertinterpret/</link>
+      <pubDate>Mon, 04 Dec 2023 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_codebertinterpret/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CodeBERT for Code Clone Detection: A Replication Study</title>
