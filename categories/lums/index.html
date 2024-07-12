@@ -474,6 +474,24 @@
     </div>
   </div>
   
+  <div>
+    <h2><a href="/project/lumsseminar1/">Comparing Clustering against Deep-Learning for Semantic Code Clone Detection</a></h2>
+    <div class="article-style">
+      
+      Semantic code clone detection involves the detection of functionally similar code fragments which may otherwise be lexically, syntactically, or structurally dissimilar. The detection of semantic code clones has applications in aspect mining and product line analysis. Semantic code clones have recently been used by a code recommendation system called FACER to model commonly co-occurring functionality across multiple software projects for recommending related code. In this paper, we compare the semantic code clone detection performance of FACER's API usage similarity-based clustering approach (FACER-CD) against a deep-learning based approach which uses a pre-trained programming language model called CodeBERT. We perform our evaluation on two datasets; a benchmark dataset of Java code clones (BigCloneBench) and another dataset consisting of Java code from Android applications. Our experiments indicate that CodeBERT outperforms FACER-CD on the BigCloneBench dataset by a 33% higher accuracy. However, FACER-CD outperforms CodeBERT by a 31% higher accuracy on the Android dataset. We find that by training CodeBERT on the Android dataset, the difference of accuracy between FACER-CD and CodeBERT is minimized, with CodeBERT outperforming FACER-CD by a 6% higher accuracy and FACER-CD outperforming CodeBERT by a 1% higher precision. Furthermore, we observe that CodeBERT requires a significantly higher amount of time than FACER-CD to give results on the same dataset. Our results can help researchers choose between deep learning-based models and clustering-based approaches for clone detection depending on their performance requirements.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/project/lumsseminar2/">An API Usage-based Code Recommendation Tool for Android Studio</a></h2>
+    <div class="article-style">
+      
+      Android developers often need to search for example code to complete their development tasks. While existing code search systems for Android can deliver code against a search query, they do not recommend code for features that a developer might later need to implement. We present FACER-AS (FACER for Android Studio); an Android Studio plugin provides relevant code against natural language queries (Stage 1) and also recommends code of multiple related features (Stage 2) to facilitate opportunistic code reuse. The FACER-AS tool uses FACER (Feature-driven API usage-based Code Examples Recommender) as its back-end code search and recommendation engine. FACER first constructs a code fact repository by parsing the source code of open-source Java projects to obtain methods' textual information, call graphs, and Application Programming Interface (API) usages. It then detects unique features by clustering methods based on similar API usages, where each cluster represents a feature or functionality. Finally, it detects frequently co-occurring features across projects using frequent pattern mining and recommends related methods from the mined patterns. To evaluate FACER-AS, we perform a user study involving one professional Android developer who uses our tool for the development of their ongoing live Android projects. We analyze the developer's usage of our tool over a span of seven days and find that FACER-AS achieves a 79% success rate for retrieving code against user queries (Stage 1) and a 41% success rate for recommending code for related features (Stage 2). We also observe a 43% reuse rate of Stage 1 recommendations and a 45% reuse rate of Stage 2 recommendations. Our tool's performance analysis and the developer's positive feedback show that FACER-AS can help Android developers with their coding activities.
+      
+    </div>
+  </div>
+  
 
   
 
