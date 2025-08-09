@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talal Jamil; Shamsa Abid; Shafay Shamail | SHAMSA ABID</title>
+    <link>https://shamsa-abid.github.io/authors/talal-jamil-shamsa-abid-shafay-shamail/</link>
+      <atom:link href="https://shamsa-abid.github.io/authors/talal-jamil-shamsa-abid-shafay-shamail/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talal Jamil; Shamsa Abid; Shafay Shamail</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 01:23:01 +0500</lastBuildDate>
+    <image>
+      <url>https://shamsa-abid.github.io/img/icon-192.png</url>
+      <title>Talal Jamil; Shamsa Abid; Shafay Shamail</title>
+      <link>https://shamsa-abid.github.io/authors/talal-jamil-shamsa-abid-shafay-shamail/</link>
+    </image>
+    
+    <item>
+      <title>Can LLMs Generate Higher Quality Code Than Humans? An Empirical Study</title>
+      <link>https://shamsa-abid.github.io/publication/pub_canllms/</link>
+      <pubDate>Fri, 13 Jun 2025 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_canllms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

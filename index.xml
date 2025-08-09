@@ -5,12 +5,20 @@
     <link>https://shamsa-abid.github.io/</link>
       <atom:link href="https://shamsa-abid.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>SHAMSA ABID</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2024 01:23:01 +0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Jun 2025 01:23:01 +0500</lastBuildDate>
     <image>
       <url>https://shamsa-abid.github.io/img/icon-192.png</url>
       <title>SHAMSA ABID</title>
       <link>https://shamsa-abid.github.io/</link>
     </image>
+    
+    <item>
+      <title>Can LLMs Generate Higher Quality Code Than Humans? An Empirical Study</title>
+      <link>https://shamsa-abid.github.io/publication/pub_canllms/</link>
+      <pubDate>Fri, 13 Jun 2025 01:23:01 +0500</pubDate>
+      <guid>https://shamsa-abid.github.io/publication/pub_canllms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Measuring model alignment for code clone detection using causal interpretation</title>
